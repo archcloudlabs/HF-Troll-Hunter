@@ -10,4 +10,4 @@ Hack Fortress DEFCON 2019 RE challenge 1, "Troll Hunter".
 make
 ```
 #### Walkthrough
-[Arch Cloud Labs' Walkthrough](https://www.archcloudlabs.com/re-1/)
+[Arch Cloud Labs' Walkthrough](https://www.archcloudlabs.com/projects/re-1/)
